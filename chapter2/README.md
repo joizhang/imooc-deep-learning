@@ -71,6 +71,9 @@ Loss(w, b)
 ![随机梯度下降](images/随机梯度下降.png)
 
 #### MSNIT
+##### MNIST数据集
+[下载地址](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/data)
+
 ##### load_data函数
 training_data:是一个由两个元素构成的元组.
 
@@ -94,3 +97,4 @@ training_labels
 training_data为zip函数组合,那么training_data为一个列表,其中每个元素是一个元组,二元组又有一个training_inputs和一个training_labels的元素组合而成.如下图
 
 ![training_data_zip](images/training_data_zip.jpg)
+
