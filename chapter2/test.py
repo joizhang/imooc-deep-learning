@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from src.chapter2 import mnist_loader
-from src.chapter2.neural_network import NetWork
+from chapter2 import mnist_loader
+from chapter2.neural_network import NetWork
 
 
 def plot_load_data_image():
@@ -31,4 +31,4 @@ if __name__ == "__main__":
 
     print_load_data_wrapper()
 
-    # test_network()
+    test_network()

@@ -6,11 +6,11 @@
 ### Numpy 数组
 ndarray.ndim: 数组中的维数，二维数组（矩阵）
 
-ndarray.shape: 数组的维度。例如二位数组中，表示数组的“行数”和“列数”。
+ndarray.shape: 数组的维度。例如二位数组中，表示数组的“行数”和“列数”
 
-ndarray.size: 数组元素的总个数，等于shape属性中元组元素的乘积。
+ndarray.size: 数组元素的总个数，等于shape属性中元组元素的乘积
 
-ndarray.dtype: 表示数组中元素类型的对象，可使用标准的Python类型创建或指定dtype。也可以使用Numpy提供的数据类型。
+ndarray.dtype: 表示数组中元素类型的对象，可使用标准的Python类型创建或指定dtype，也可以使用Numpy提供的数据类型
 
 ### 深度学习简介
 
@@ -55,7 +55,7 @@ b：偏置项
 - Relu 函数
 
 #### 深度神经网络（DNN）
-所谓的深度学习世纪至的是给予 Deep Neural Networks 的学习，也就是深度人工神经网络所进行的学习过程，也称作Deep Learning。这个 Deep 是指的神经网络的深度
+所谓的深度学习实际指的是给予 Deep Neural Networks 的学习，也就是深度人工神经网络所进行的学习过程，也称作Deep Learning。这个 Deep 是指的神经网络的深度
 
 #### 深度学习为什么强
 ##### 不用再提取特征
