@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-import mnist_loader
-from chapter2.neural_network import NetWork
+from src.chapter2 import mnist_loader
+from src.chapter2.neural_network import NetWork
 
 
 def plot_load_data_image():
